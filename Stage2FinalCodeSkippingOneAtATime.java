@@ -8,6 +8,7 @@ public class Stage2FinalCodeSkippingOneAtATime {
 
 	public static void main(String[] args) {
 		/*
+		Just For Check urpose
 		noOfPeople = Total no. of people at the starting who are sitting around a circular table
 		swordWithInitially = person's no. who has the sword initially or we can say the staring point or reference point
 		lastManStanding = person who survives at the end 
